@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<FonoTech_users>
+	<user typeOfUser="Administrator">
+		<username>admin</username>
+		<password>bf1d6be7d143979f2d194246187f47ef</password>
+	</user>
+	<user typeOfUser="Member">
+		<username>mitkod</username>
+		<password>2ed891419b376728256724e2daadad16</password>
+	</user>
+</FonoTech_users>

@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<FonoTech_data_producers>
+<producer producerName="Polysound">
+	<producerOwner>Polysound Inc.</producerOwner>
+	<artist>
+		<artistName>Stoyan i Viktor</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>B-Voices</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Iliya Angelov</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Akustika</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>RST</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>D2</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Zvezdi (Analgin)</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Silviya Kacarova</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Nikolay Urumov</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Big Mama Scandal</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Tedi Kacarova</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Up Down</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Maniya</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Signal</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Various artists</artistName>
+		<artistProducer>Polysound</artistProducer>
+		<album>
+			<albumName>Bavno 2</albumName>
+			<duration>57:33</duration>
+			<artist>Various artists</artist>
+			<albumYear>2000</albumYear>
+			<song>
+				<songTitle>Otkakto ti</songTitle>
+				<songArtist>Stoyan i Viktor</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:29</length>
+				<year>2000</year>
+				<arrangementBy>Viktor</arrangementBy>
+				<musicBy>Stoyan Mihalev</musicBy>
+				<lyricsBy>Ina Grigorova</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tainstven nepoznat</songTitle>
+				<songArtist>B-Voices</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:45</length>
+				<year>2000</year>
+				<arrangementBy>Stamen Yanev</arrangementBy>
+				<musicBy>Stamen Yanev</musicBy>
+				<lyricsBy>Desislava Sofranova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Svyat na vaobrazhenie</songTitle>
+				<songArtist>Iliya Angelov</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:41</length>
+				<year>2000</year>
+				<arrangementBy>Momchil Kolev</arrangementBy>
+				<musicBy>Iliya Angelov</musicBy>
+				<lyricsBy>Ioanna Radeva</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne razbra li, ne iskam</songTitle>
+				<songArtist>Akustika</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:31</length>
+				<year>1999</year>
+				<arrangementBy>Akustika</arrangementBy>
+				<musicBy>Nikolay Peev</musicBy>
+				<lyricsBy>Nikolay Peev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ochakvano dokosvane</songTitle>
+				<songArtist>RST</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:32</length>
+				<year>2000</year>
+				<arrangementBy>RST</arrangementBy>
+				<musicBy>RST</musicBy>
+				<lyricsBy>Citadela</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Prosti mi</songTitle>
+				<songArtist>D2</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:21</length>
+				<year>2000</year>
+				<arrangementBy>Dimitar Karnev</arrangementBy>
+				<musicBy>Dimitar Karnev</musicBy>
+				<lyricsBy>Rumen Gaidev</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Bezkrai</songTitle>
+				<songArtist>Zvezdi (Analgin)</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:59</length>
+				<year>1999</year>
+				<arrangementBy>Zvezdomir Keremedchiev</arrangementBy>
+				<musicBy>Zvezdomir Keremedchiev</musicBy>
+				<lyricsBy>Zvezdomir Keremedchiev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Beli rozi</songTitle>
+				<songArtist>Silviya Kacarova</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:54</length>
+				<year>1998</year>
+				<arrangementBy>Maga</arrangementBy>
+				<musicBy>Silviya Kacarova</musicBy>
+				<lyricsBy>Lachezar Tanev</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne govori</songTitle>
+				<songArtist>Nikolay Urumov</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:01</length>
+				<year>2000</year>
+				<arrangementBy>Nikolay Urumov</arrangementBy>
+				<musicBy>Nikolay Urumov</musicBy>
+				<lyricsBy>Ina Grigorova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Usmihni se</songTitle>
+				<songArtist>Big Mama Scandal</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:21</length>
+				<year>1999</year>
+				<arrangementBy>Big mama scandal</arrangementBy>
+				<musicBy>Ivaylo Gochev</musicBy>
+				<lyricsBy>Ivaylo Gochev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Bronzovo</songTitle>
+				<songArtist>Tedi Kacarova</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:07</length>
+				<year>2000</year>
+				<arrangementBy>Momchil Kolev</arrangementBy>
+				<musicBy>Silviya Kacarova</musicBy>
+				<lyricsBy>Grafa</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>S cvetya do sebe si (remix)</songTitle>
+				<songArtist>Up Down</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:20</length>
+				<year>2000</year>
+				<arrangementBy>Petko Manchev</arrangementBy>
+				<musicBy>Petko Manchev</musicBy>
+				<lyricsBy>Lyudmil Ilarionov - Lyusi</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne e istina</songTitle>
+				<songArtist>Maniya</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:43</length>
+				<year>1999</year>
+				<arrangementBy>Short cuts</arrangementBy>
+				<musicBy>Vasil Novakov</musicBy>
+				<lyricsBy>Aleksandar Petrov</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Sazhalyavam</songTitle>
+				<songArtist>Signal</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:49</length>
+				<year>1998</year>
+				<arrangementBy>Signal</arrangementBy>
+				<musicBy>Signal</musicBy>
+				<lyricsBy>Aleksandar Petrov</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="RCA">
+	<producerOwner>Timbaland</producerOwner>
+	<artist>
+		<artistName>Justin Timberlake</artistName>
+		<artistProducer>RCA</artistProducer>
+		<album>
+			<albumName>The 20/20 Experience</albumName>
+			<duration>70:01</duration>
+			<artist>Justin Timberlake</artist>
+			<albumYear>2013</albumYear>
+			<song>
+				<songTitle>Pusher Love Girl</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>8:02</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle> Tie</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>5:26</length>
+				<year>2012</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Shawn Carter</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Don't Hold the Wall</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:10</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Strawberry Bubblegum</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:58</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tunnel Vision</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>6:46</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Spaceship Coupe</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:17</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>That Girl</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>4:47</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Let the Groove Get In</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:11</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Mirrors</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>8:05</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Blue Ocean Floor</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:19</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Island Records">
+	<producerOwner>Chris Blackwell</producerOwner>
+	<artist>
+		<artistName>U2</artistName>
+		<artistProducer>Island Records</artistProducer>
+		<album>
+			<albumName>Achtung Baby</albumName>
+			<duration>55:26</duration>
+			<artist>U2</artist>
+			<albumYear>1991</albumYear>
+			<song>
+				<songTitle>Zoo Station</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:36</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Even better than the real thing</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>3:41</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>One</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:36</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Until the end of the world</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:39</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Who's gonna ride your wild horses</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>5:16</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>So cruel</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>5:48</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>The Fly</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:29</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Mysterious ways</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:04</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tryin' to throw your arms around the world</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>3:53</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ultraviolet</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>5:31</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Acrobat</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:30</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Love is blindness</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:23</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Payner">
+	<producerOwner>Mitko Dimitrov</producerOwner>
+	<artist>
+		<artistName>Ivana</artistName>
+		<artistProducer>Payner</artistProducer>
+		<album>
+			<albumName>Ne davam da se davame</albumName>
+			<duration>4:41</duration>
+			<artist>Ivana</artist>
+			<albumYear>2015</albumYear>
+			<song>
+				<songTitle>Blagodarya ti, Gospodi</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:41</length>
+				<year>2015</year>
+				<arrangementBy>Stoyana</arrangementBy>
+				<musicBy>Stoyana</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+</FonoTech_data_producers>
