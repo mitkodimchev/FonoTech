@@ -5,7 +5,10 @@ import java.awt.Container;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JMenu;
@@ -123,7 +126,10 @@ public class MemberMenu {
 
 	public static void MenuStart() {
 		myframe = new MemberMenuFrame();
+<<<<<<< HEAD
 		myframe.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		MemberMenuPanel mypanel = new MemberMenuPanel(myframe);
 		Container contentPane = myframe.getContentPane();
 		contentPane.add(mypanel);

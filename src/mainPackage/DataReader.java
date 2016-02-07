@@ -18,7 +18,10 @@ public class DataReader extends DefaultHandler {
 	Artist artistTemp;
 	Album albumTemp;
 	Song songTemp;
+<<<<<<< HEAD
 	String albumArtist;
+=======
+>>>>>>> origin/master
 
 	public DataReader(String XmlFileName) {
 		producerList = new ArrayList<Producer>();
@@ -43,6 +46,12 @@ public class DataReader extends DefaultHandler {
 
 	@Override
 	public void startElement(String s, String s1, String elementName, Attributes attributes) throws SAXException {
+<<<<<<< HEAD
+=======
+		// if current element is book , create new book
+		// clear tmpValue on start of element
+
+>>>>>>> origin/master
 		if (elementName.equalsIgnoreCase("producer")) {
 			producerTemp = new Producer();
 			producerTemp.setName(attributes.getValue("producerName"));
@@ -60,6 +69,10 @@ public class DataReader extends DefaultHandler {
 
 	@Override
 	public void endElement(String s, String s1, String element) throws SAXException {
+<<<<<<< HEAD
+=======
+		// if end of book element add to list
+>>>>>>> origin/master
 		if (element.equalsIgnoreCase("producer")) {
 			producerList.add(producerTemp);
 		}
@@ -67,16 +80,30 @@ public class DataReader extends DefaultHandler {
 			producerTemp.setOwner(temp);
 		}
 		if (element.equalsIgnoreCase("artist")) {
+<<<<<<< HEAD
 			artistTemp.setProducer(producerTemp);
 		}
 		if (element.equalsIgnoreCase("artistName")) {
 			artistTemp.setName(temp);
 			producerTemp.addArtist(artistTemp);
+=======
+			if (artistTemp.getName() != null) {
+				artistTemp.setProducer(producerTemp);
+				producerTemp.addArtist(artistTemp);
+			}
+		}
+		if (element.equalsIgnoreCase("artistName")) {
+			artistTemp.setName(temp);
+>>>>>>> origin/master
 		}
 		if (element.equalsIgnoreCase("albumName")) {
 			albumTemp.setAlbumName(temp);
 			albumTemp.setArtist(artistTemp);
 			albumTemp.setProducer(producerTemp);
+<<<<<<< HEAD
+=======
+			producerTemp.addArtist(artistTemp);
+>>>>>>> origin/master
 			artistTemp.setProducer(producerTemp);
 			artistTemp.addAlbum(albumTemp);
 		}
@@ -96,7 +123,11 @@ public class DataReader extends DefaultHandler {
 			songTemp.setSongArtist(Search.searchArtist(temp));
 		}
 		if (element.equalsIgnoreCase("length")) {
+<<<<<<< HEAD
 			songTemp.setLength(DurationFono.toDuration(temp));
+=======
+			songTemp.setLength(DurationFono.stringToDuration(temp));
+>>>>>>> origin/master
 		}
 		if (element.equalsIgnoreCase("year")) {
 			songTemp.setYear(Integer.parseInt(temp));

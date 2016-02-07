@@ -64,6 +64,10 @@
 		<album>
 			<albumName>Bavno 2</albumName>
 			<duration>57:33</duration>
+<<<<<<< HEAD
+=======
+			<artist>Various artists</artist>
+>>>>>>> origin/master
 			<albumYear>2000</albumYear>
 			<song>
 				<songTitle>Otkakto ti</songTitle>
@@ -236,6 +240,7 @@
 		</album>
 	</artist>	
 </producer>
+<<<<<<< HEAD
 <producer producerName="XL Recordings">
 	<producerOwner>Richard Russell</producerOwner>
 	<artist>
@@ -380,6 +385,8 @@
 		</album>
 	</artist>	
 </producer>
+=======
+>>>>>>> origin/master
 <producer producerName="RCA">
 	<producerOwner>Timbaland</producerOwner>
 	<artist>
@@ -388,6 +395,10 @@
 		<album>
 			<albumName>The 20/20 Experience</albumName>
 			<duration>70:01</duration>
+<<<<<<< HEAD
+=======
+			<artist>Justin Timberlake</artist>
+>>>>>>> origin/master
 			<albumYear>2013</albumYear>
 			<song>
 				<songTitle>Pusher Love Girl</songTitle>
@@ -520,6 +531,10 @@
 		<album>
 			<albumName>Achtung Baby</albumName>
 			<duration>55:26</duration>
+<<<<<<< HEAD
+=======
+			<artist>U2</artist>
+>>>>>>> origin/master
 			<albumYear>1991</albumYear>
 			<song>
 				<songTitle>Zoo Station</songTitle>
@@ -667,6 +682,7 @@
 			</song>
 		</album>
 	</artist>	
+<<<<<<< HEAD
 	<artist>
 		<artistName>Bob Marley</artistName>
 		<artistProducer>Island Records</artistProducer>
@@ -796,6 +812,8 @@
 			</song>
 		</album>
 	</artist>	
+=======
+>>>>>>> origin/master
 </producer>
 <producer producerName="Payner">
 	<producerOwner>Mitko Dimitrov</producerOwner>
@@ -804,7 +822,12 @@
 		<artistProducer>Payner</artistProducer>
 		<album>
 			<albumName>Ne davam da se davame</albumName>
+<<<<<<< HEAD
 			<duration>54:20</duration>
+=======
+			<duration>4:41</duration>
+			<artist>Ivana</artist>
+>>>>>>> origin/master
 			<albumYear>2015</albumYear>
 			<song>
 				<songTitle>Blagodarya ti, Gospodi</songTitle>
@@ -813,6 +836,7 @@
 				<albumArtist>Ivana</albumArtist>
 				<length>4:41</length>
 				<year>2015</year>
+<<<<<<< HEAD
 				<arrangementBy>Spas Lazarov</arrangementBy>
 				<musicBy>Neshko Neshev</musicBy>
 				<lyricsBy>Marieta Angelova</lyricsBy>
@@ -947,11 +971,16 @@
 				<year>2015</year>
 				<arrangementBy>Spas Lazarov</arrangementBy>
 				<musicBy>Spas Lazarov</musicBy>
+=======
+				<arrangementBy>Stoyana</arrangementBy>
+				<musicBy>Stoyana</musicBy>
+>>>>>>> origin/master
 				<lyricsBy>Marieta Angelova</lyricsBy>
 				<hasVideo>false</hasVideo>
 			</song>
 		</album>
 	</artist>	
+<<<<<<< HEAD
 	<artist>
 		<artistName>Various artists</artistName>
 		<artistProducer>Payner</artistProducer>
@@ -2175,5 +2204,7 @@
 			</song>
 		</album>
 	</artist>	
+=======
+>>>>>>> origin/master
 </producer>
 </FonoTech_data_producers>

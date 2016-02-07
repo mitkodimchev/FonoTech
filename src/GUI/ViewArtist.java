@@ -6,7 +6,10 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 import javax.swing.ButtonGroup;
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -30,7 +33,11 @@ public class ViewArtist extends JDialog {
 
 	public ViewArtist(JFrame parent) {
 		super(parent, "View Artist", true);
+<<<<<<< HEAD
 		setSize(600, 600);
+=======
+		setSize(350, 600);
+>>>>>>> origin/master
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		viewArtistPanel = new ViewArtistPanel(this);
 		getContentPane().add(viewArtistPanel);
@@ -59,7 +66,11 @@ class ViewArtistPanel extends JPanel {
 						int num = 1;
 						for (Album currentAlbum : selectedArtist.getAlbums()) {
 							ArtistData.append(" " + num + ". " + currentAlbum.getAlbumName() + " ("
+<<<<<<< HEAD
 									+ DurationFono.toString(currentAlbum.getLength()) + ") "+currentAlbum.getYear()+"\n");
+=======
+									+ DurationFono.durationToString(currentAlbum.getLength()) + ") "+currentAlbum.getYear());
+>>>>>>> origin/master
 							num++;
 						}
 						if(num==1){
@@ -78,14 +89,20 @@ class ViewArtistPanel extends JPanel {
 	}
 
 	ViewArtistPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167, 202, 255));
 		ArrayList<Producer> tempProd = DataStorage.getDatabase();
 		ArrayList<Artist> tempArtist;
 		for (Producer producer : tempProd) {
 			tempArtist = producer.getArtistList();
 			for (Artist artist : tempArtist) {
+<<<<<<< HEAD
 				if(artist.getName()!=null){
+=======
+>>>>>>> origin/master
 				if(!artist.getName().equals("Various artists")){
 					JRadioButton ArtistButton = new JRadioButton(artist.getName() + " - " + artist.getProducer().getName());
 					group.add(ArtistButton);
@@ -94,7 +111,10 @@ class ViewArtistPanel extends JPanel {
 					ArtistButton.setBackground(new Color(167, 202, 255));
 				}
 			}
+<<<<<<< HEAD
 			}
+=======
+>>>>>>> origin/master
 		}
 		this.dialog = dialog;
 		ActionListener buttonEvent = new ButtonHandler();

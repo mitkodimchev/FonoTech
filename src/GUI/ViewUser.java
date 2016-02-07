@@ -6,7 +6,10 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 import javax.swing.ButtonGroup;
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -58,7 +61,10 @@ class ViewUserPanel extends JPanel {
 	}
 
 	ViewUserPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167, 202, 255));
 		ArrayList<User> users = DataStorage.getUsers();
 		for (User currentUser : users) {

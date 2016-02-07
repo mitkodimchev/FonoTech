@@ -5,12 +5,18 @@ import java.awt.Graphics;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+<<<<<<< HEAD
 import javax.swing.JOptionPane;
+=======
+>>>>>>> origin/master
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
@@ -47,8 +53,12 @@ class DialogPanel extends JPanel {
 				String passwordToEncrypt = pass.getText();
 				String password = PasswordEncryption.passEncryption(passwordToEncrypt);
 				if (Search.searchUser(username, password) == null)
+<<<<<<< HEAD
 					JOptionPane.showMessageDialog(null, "Error. Incorrect username or password.", "FonoTech",
 							JOptionPane.INFORMATION_MESSAGE);
+=======
+					System.out.println("Грешен потребител или парола.");
+>>>>>>> origin/master
 				else {
 					LogRegMenu.user = Search.searchUser(username, password);
 					System.out.println("Успешно влизане в системата.");
@@ -64,7 +74,10 @@ class DialogPanel extends JPanel {
 	}
 	
 	DialogPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167,202,255));
 		this.dialog = dialog;
 		ButtonHandler b = new ButtonHandler();

@@ -4,7 +4,10 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -62,7 +65,10 @@ class ChangePass extends JDialog {
 		}
 		
 		ChangePassDialog(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167,202,255));
 		this.dialog = dialog;
 		ActionListener buttonEvent = new ButtonHandler();

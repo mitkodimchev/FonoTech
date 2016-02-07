@@ -5,7 +5,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.Duration;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JDialog;
@@ -98,7 +101,11 @@ class CreateSongPanel extends JPanel {
 					dialog.dispose();
 					return;
 				}
+<<<<<<< HEAD
 				if (minutes > 59 || seconds > 59 || yearInt>2016 || yearInt<1940) {
+=======
+				if (minutes > 59 || seconds > 59) {
+>>>>>>> origin/master
 					JOptionPane.showMessageDialog(null, "Error. Incorrect data.", "FonoTech",
 							JOptionPane.INFORMATION_MESSAGE);
 					dialog.setVisible(false);
@@ -125,7 +132,10 @@ class CreateSongPanel extends JPanel {
 	}
 
 	CreateSongPanel(JDialog dialog, boolean isAlbum, Producer producerAlbum, Album album) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		albumSong = album;
 		isAlbumSong = isAlbum;
 		producer = producerAlbum;

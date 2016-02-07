@@ -7,7 +7,10 @@ import java.awt.event.ActionListener;
 import java.text.ParseException;
 
 import javax.swing.ButtonGroup;
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFormattedTextField;
@@ -141,7 +144,10 @@ class CreateAlbumPanel extends JPanel {
 	}
 
 	CreateAlbumPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167, 202, 255));
 		try {
 			year = new JFormattedTextField(new MaskFormatter("####"));

@@ -7,7 +7,10 @@ import java.awt.Container;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -58,13 +61,19 @@ class MyPanel extends JPanel {
 
 public class LogRegMenu {
 	public static User user;
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 	public static User start() {
 		MyFrame myframe = new MyFrame();
 		MyPanel mypanel = new MyPanel();
 		Container contentPane = myframe.getContentPane();
 		contentPane.add(mypanel);
+<<<<<<< HEAD
 		myframe.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		myframe.setVisible(true);
 		do{
 			try {

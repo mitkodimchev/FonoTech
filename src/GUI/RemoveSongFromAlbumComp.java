@@ -6,7 +6,10 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 import javax.swing.ButtonGroup;
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -64,14 +67,21 @@ class RemoveSongFromAlbumCompPanel extends JPanel {
 	}
 
 	RemoveSongFromAlbumCompPanel(JDialog dialog, Album album) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167, 202, 255));
 		albumRem = album;
 		int i = 1;
 		ArrayList<Song> songList = albumRem.getSongs();
 		for (Song songTemp : songList) {
 				JRadioButton songButton = new JRadioButton(i + " - " + songTemp.getSongArtist().getName() + " - "
+<<<<<<< HEAD
 							+ songTemp.getSongTitle() + " - " + DurationFono.toString(songTemp.getLength()));
+=======
+							+ songTemp.getSongTitle() + " - " + DurationFono.durationToString(songTemp.getLength()));
+>>>>>>> origin/master
 					group.add(songButton);
 					songButtons.add(songButton);
 					add(songButton);

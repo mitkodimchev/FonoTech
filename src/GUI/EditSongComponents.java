@@ -4,7 +4,10 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JDialog;
@@ -92,7 +95,10 @@ class EditSongComponentsPanel extends JPanel {
 	}
 
 	EditSongComponentsPanel(JDialog dialog, Song song) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		editedSong = song;
 		setBackground(new Color(167, 202, 255));
 		this.dialog = dialog;

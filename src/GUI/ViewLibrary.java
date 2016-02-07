@@ -6,7 +6,10 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 import javax.swing.ButtonGroup;
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -57,14 +60,22 @@ class ViewLibraryPanel extends JPanel {
 						Album selectedAlbum = Search.searchAlbum(album[1], Search.searchArtist(album[2]));
 						StringBuilder albumData = new StringBuilder(" Album name:" + selectedAlbum.getAlbumName()
 								+ "\n Artist of album:" + selectedAlbum.getArtist().getName() + "\n Duration:"
+<<<<<<< HEAD
 								+ DurationFono.toString(selectedAlbum.getLength()) + "\n Year:"
+=======
+								+ DurationFono.durationToString(selectedAlbum.getLength()) + "\n Year:"
+>>>>>>> origin/master
 								+ selectedAlbum.getYear() + "\n Producer:" + selectedAlbum.getProducer().getName()
 								+ "\n\n");
 						int num = 1;
 						for (Song currentSong : selectedAlbum.getSongs()) {
 							albumData.append(" " + num + ". " + currentSong.getSongArtist().getName() + " - "
 									+ currentSong.getSongTitle() + " - "
+<<<<<<< HEAD
 									+ DurationFono.toString(currentSong.getLength()));
+=======
+									+ DurationFono.durationToString(currentSong.getLength()));
+>>>>>>> origin/master
 							if (currentSong.isHasVideo()) {
 								albumData.append(" : Video\n");
 							} else {
@@ -88,7 +99,10 @@ class ViewLibraryPanel extends JPanel {
 	}
 
 	ViewLibraryPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167, 202, 255));
 		ArrayList<Producer> tempProd = DataStorage.getDatabase();
 		ArrayList<Artist> tempArtist;

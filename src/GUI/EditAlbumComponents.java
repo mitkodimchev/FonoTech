@@ -6,7 +6,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.ParseException;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFormattedTextField;
@@ -61,7 +64,10 @@ class EditAlbumComponentsPanel extends JPanel {
 	}
 
 	EditAlbumComponentsPanel(JDialog dialog, Album album) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		editedAlbum = album;
 		setBackground(new Color(167, 202, 255));
 		try {

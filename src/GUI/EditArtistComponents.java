@@ -4,7 +4,10 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -52,7 +55,10 @@ class EditArtistComponentsPanel extends JPanel {
 	}
 
 	EditArtistComponentsPanel(JDialog dialog, Artist artist) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		editedArtist = artist;
 		setBackground(new Color(167,202,255));
 		this.dialog = dialog;

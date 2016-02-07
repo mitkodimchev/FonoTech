@@ -5,7 +5,10 @@ import java.awt.Container;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JFrame;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
@@ -257,7 +260,10 @@ public class AdministratorMenu {
 
 	public static void MenuStart() {
 		myframe = new AdministratorMenuFrame();
+<<<<<<< HEAD
 		myframe.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		AdminMenuPanel mypanel = new AdminMenuPanel(myframe);
 		Container contentPane = myframe.getContentPane();
 		contentPane.add(mypanel);

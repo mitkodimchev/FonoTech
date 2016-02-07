@@ -5,10 +5,15 @@ import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+<<<<<<< HEAD
 import java.util.Random;
 
 import javax.swing.ButtonGroup;
 import javax.swing.ImageIcon;
+=======
+
+import javax.swing.ButtonGroup;
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -43,14 +48,23 @@ public class ViewCollection extends JDialog {
 class ViewCollectionPanel extends JPanel {
 
 	private static final long serialVersionUID = 1L;
+<<<<<<< HEAD
 	JDialog dialog;
 	Member user = (Member) Test.getUser();
 	ArrayList<Integer> collection = user.getAlbumCollection();
+=======
+
+	JDialog dialog;
+	Member user = (Member) Test.getUser();
+>>>>>>> origin/master
 	JButton view = new JButton("View Album");
 	JButton searchByYear = new JButton("Search by year");
 	JButton searchByLength = new JButton("Search by length");
 	JButton songsByArtist = new JButton("Songs by artist");
+<<<<<<< HEAD
 	JButton randomAlbum = new JButton("Suggest me an album");
+=======
+>>>>>>> origin/master
 	ButtonGroup group = new ButtonGroup();
 	ArrayList<JRadioButton> albumButtons = new ArrayList<JRadioButton>();
 
@@ -64,14 +78,22 @@ class ViewCollectionPanel extends JPanel {
 						Album selectedAlbum = Search.searchAlbum(album[1], Search.searchArtist(album[2]));
 						StringBuilder albumData = new StringBuilder(" Album name:" + selectedAlbum.getAlbumName()
 								+ "\n Artist of album:" + selectedAlbum.getArtist().getName() + "\n Duration:"
+<<<<<<< HEAD
 								+ DurationFono.toString(selectedAlbum.getLength()) + "\n Year:"
+=======
+								+ DurationFono.durationToString(selectedAlbum.getLength()) + "\n Year:"
+>>>>>>> origin/master
 								+ selectedAlbum.getYear() + "\n Producer:" + selectedAlbum.getProducer().getName()
 								+ "\n\n");
 						int num = 1;
 						for (Song currentSong : selectedAlbum.getSongs()) {
 							albumData.append(" " + num + ". " + currentSong.getSongArtist().getName() + " - "
 									+ currentSong.getSongTitle() + " - "
+<<<<<<< HEAD
 									+ DurationFono.toString(currentSong.getLength()));
+=======
+									+ DurationFono.durationToString(currentSong.getLength()));
+>>>>>>> origin/master
 							if (currentSong.isHasVideo()) {
 								albumData.append(" : Video\n");
 							} else {
@@ -92,6 +114,7 @@ class ViewCollectionPanel extends JPanel {
 
 				}
 			}
+<<<<<<< HEAD
 			if (e.getSource() == randomAlbum) {
 				if (collection.size() != 0) {
 					Random random = new Random();
@@ -126,6 +149,8 @@ class ViewCollectionPanel extends JPanel {
 				}
 			}
 
+=======
+>>>>>>> origin/master
 			if (e.getSource() == searchByYear) {
 				String year = JOptionPane.showInputDialog(null, "Enter year:");
 				int yearInt = 0;
@@ -175,7 +200,11 @@ class ViewCollectionPanel extends JPanel {
 					if (album != null) {
 						if ((album.getLength().compareTo(DurationFono.durationOfSong(minutesInt, 0)) < 0)) {
 							albumData.append(album.getAlbumName() + " - " + album.getArtist().getName() + " ("
+<<<<<<< HEAD
 									+ DurationFono.toString(album.getLength()) + ")\n");
+=======
+									+ DurationFono.durationToString(album.getLength()) + ")\n");
+>>>>>>> origin/master
 						}
 					}
 				}
@@ -206,7 +235,11 @@ class ViewCollectionPanel extends JPanel {
 							if (currentSong.getSongArtist().getName().equals(artist)) {
 								songsData.append(" " + num + ". " + currentSong.getSongArtist().getName() + " - "
 										+ currentSong.getSongTitle() + " - "
+<<<<<<< HEAD
 										+ DurationFono.toString(currentSong.getLength()));
+=======
+										+ DurationFono.durationToString(currentSong.getLength()));
+>>>>>>> origin/master
 								if (currentSong.isHasVideo()) {
 									songsData.append(" : Video\n");
 								} else {
@@ -226,13 +259,22 @@ class ViewCollectionPanel extends JPanel {
 				textArea.setEditable(false);
 				JScrollPane scrollPane = new JScrollPane(textArea);
 				JOptionPane.showMessageDialog(null, scrollPane, "Albums by year", JOptionPane.INFORMATION_MESSAGE);
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 			}
 		}
 	}
 
 	ViewCollectionPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
 		setBackground(new Color(167, 202, 255));
+=======
+		setBackground(new Color(167, 202, 255));
+		ArrayList<Integer> collection = user.getAlbumCollection();
+>>>>>>> origin/master
 		int i = 1;
 		for (int albumID : collection) {
 			Album album = Search.searchAlbumByID(albumID);
@@ -252,12 +294,18 @@ class ViewCollectionPanel extends JPanel {
 		searchByLength.addActionListener(buttonEvent);
 		searchByYear.addActionListener(buttonEvent);
 		songsByArtist.addActionListener(buttonEvent);
+<<<<<<< HEAD
 		randomAlbum.addActionListener(buttonEvent);
+=======
+>>>>>>> origin/master
 		view.setPreferredSize(new Dimension(320, 30));
 		add(view);
 		add(searchByYear);
 		add(searchByLength);
 		add(songsByArtist);
+<<<<<<< HEAD
 		add(randomAlbum);
+=======
+>>>>>>> origin/master
 	}
 }

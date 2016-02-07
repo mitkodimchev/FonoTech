@@ -6,7 +6,10 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 import javax.swing.ButtonGroup;
+<<<<<<< HEAD
 import javax.swing.ImageIcon;
+=======
+>>>>>>> origin/master
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -67,7 +70,11 @@ class ViewSongPanel extends JPanel {
 					dialog.dispose();
 				} else {
 					StringBuilder songData = new StringBuilder(songTemp.getSongArtist().getName() + " - "
+<<<<<<< HEAD
 							+ songTemp.getSongTitle() + " - " + DurationFono.toString(songTemp.getLength()));
+=======
+							+ songTemp.getSongTitle() + " - " + DurationFono.durationToString(songTemp.getLength()));
+>>>>>>> origin/master
 					if (songTemp.isHasVideo()) {
 						songData.append(" : Video\n");
 					} else {
@@ -84,7 +91,10 @@ class ViewSongPanel extends JPanel {
 	}
 
 	ViewSongPanel(JDialog dialog) {
+<<<<<<< HEAD
 		dialog.setIconImage(new ImageIcon(LogRegMenu.class.getResource("logo.png")).getImage());
+=======
+>>>>>>> origin/master
 		setBackground(new Color(167, 202, 255));
 		this.dialog = dialog;
 		ActionListener buttonEvent = new ButtonHandler();

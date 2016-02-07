@@ -74,11 +74,20 @@ public class DataStorage {
 			eventWriter.add(end);
 			createNode(eventWriter, "producerOwner", current.getOwner());
 			ArrayList<Artist> artistList = current.getArtistList();
+<<<<<<< HEAD
 			for(Artist currentArtist:artistList){
 				if(currentArtist.getName()!=null){
 				eventWriter.add(tab);
 				eventWriter.add(eventFactory.createStartElement("", "", "artist"));
 				eventWriter.add(end);
+=======
+			Iterator<Artist> itrArtist = artistList.iterator();
+			while (itrArtist.hasNext()) {
+				eventWriter.add(tab);
+				eventWriter.add(eventFactory.createStartElement("", "", "artist"));
+				eventWriter.add(end);
+				Artist currentArtist = itrArtist.next();
+>>>>>>> origin/master
 				eventWriter.add(tab);
 				createNode(eventWriter, "artistName", currentArtist.getName());
 				eventWriter.add(tab);
@@ -93,7 +102,13 @@ public class DataStorage {
 					eventWriter.add(tab2);
 					createNode(eventWriter, "albumName", currentAlbum.getAlbumName());
 					eventWriter.add(tab2);
+<<<<<<< HEAD
 					createNode(eventWriter, "duration", DurationFono.toString(currentAlbum.getLength()));
+=======
+					createNode(eventWriter, "duration", DurationFono.durationToString(currentAlbum.getLength()));
+					eventWriter.add(tab2);
+					createNode(eventWriter, "artist", currentAlbum.getArtist().getName());
+>>>>>>> origin/master
 					eventWriter.add(tab2);
 					createNode(eventWriter, "albumYear", Integer.toString(currentAlbum.getYear()));
 					ArrayList<Song> songList = currentAlbum.getSongs();
@@ -112,7 +127,11 @@ public class DataStorage {
 						eventWriter.add(tab3);
 						createNode(eventWriter, "albumArtist", currentSong.getAlbum().getArtist().getName());
 						eventWriter.add(tab3);
+<<<<<<< HEAD
 						createNode(eventWriter, "length", DurationFono.toString(currentSong.getLength()));
+=======
+						createNode(eventWriter, "length", DurationFono.durationToString(currentSong.getLength()));
+>>>>>>> origin/master
 						eventWriter.add(tab3);
 						createNode(eventWriter, "year", Integer.toString(currentSong.getYear()));
 						eventWriter.add(tab3);
@@ -135,7 +154,10 @@ public class DataStorage {
 				eventWriter.add(eventFactory.createEndElement("", "", "artist"));
 				eventWriter.add(tab);
 				eventWriter.add(end);
+<<<<<<< HEAD
 				}
+=======
+>>>>>>> origin/master
 			}
 			eventWriter.add(eventFactory.createEndElement("", "", "producer"));
 			eventWriter.add(end);
