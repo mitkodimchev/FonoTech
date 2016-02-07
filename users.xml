@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<FonoTech_users>
+	<user typeOfUser="Administrator">
+		<username>admin</username>
+		<password>bf1d6be7d143979f2d194246187f47ef</password>
+	</user>
+	<user typeOfUser="Member">
+		<username>mitkod</username>
+		<password>2ed891419b376728256724e2daadad16</password>
+	</user>
+	<user typeOfUser="Member">
+		<username>petko_ivanov</username>
+		<password>4a7d1ed414474e4033ac29ccb8653d9b</password>
+	</user>
+	<user typeOfUser="Member">
+		<username>adele_fan</username>
+		<password>ee2652075ad33343c79c5a6a1161371b</password>
+	</user>
+	<user typeOfUser="Member">
+		<username>sfmitroev</username>
+		<password>491442df5f88c6aa018e86dac21d3606</password>
+	</user>
+	<user typeOfUser="Member">
+		<username>sap</username>
+		<password>4a7d1ed414474e4033ac29ccb8653d9b</password>
+	</user>
+</FonoTech_users>

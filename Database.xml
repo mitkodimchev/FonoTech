@@ -1,0 +1,2179 @@
+<?xml version="1.0"?>
+<FonoTech_data_producers>
+<producer producerName="Polysound">
+	<producerOwner>Polysound Inc.</producerOwner>
+	<artist>
+		<artistName>Stoyan i Viktor</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>B-Voices</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Iliya Angelov</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Akustika</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>RST</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>D2</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Zvezdi (Analgin)</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Silviya Kacarova</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Nikolay Urumov</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Big Mama Scandal</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Tedi Kacarova</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Up Down</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Maniya</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Signal</artistName>
+		<artistProducer>Polysound</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Various artists</artistName>
+		<artistProducer>Polysound</artistProducer>
+		<album>
+			<albumName>Bavno 2</albumName>
+			<duration>57:33</duration>
+			<albumYear>2000</albumYear>
+			<song>
+				<songTitle>Otkakto ti</songTitle>
+				<songArtist>Stoyan i Viktor</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:29</length>
+				<year>2000</year>
+				<arrangementBy>Viktor</arrangementBy>
+				<musicBy>Stoyan Mihalev</musicBy>
+				<lyricsBy>Ina Grigorova</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tainstven nepoznat</songTitle>
+				<songArtist>B-Voices</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:45</length>
+				<year>2000</year>
+				<arrangementBy>Stamen Yanev</arrangementBy>
+				<musicBy>Stamen Yanev</musicBy>
+				<lyricsBy>Desislava Sofranova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Svyat na vaobrazhenie</songTitle>
+				<songArtist>Iliya Angelov</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:41</length>
+				<year>2000</year>
+				<arrangementBy>Momchil Kolev</arrangementBy>
+				<musicBy>Iliya Angelov</musicBy>
+				<lyricsBy>Ioanna Radeva</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne razbra li, ne iskam</songTitle>
+				<songArtist>Akustika</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:31</length>
+				<year>1999</year>
+				<arrangementBy>Akustika</arrangementBy>
+				<musicBy>Nikolay Peev</musicBy>
+				<lyricsBy>Nikolay Peev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ochakvano dokosvane</songTitle>
+				<songArtist>RST</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:32</length>
+				<year>2000</year>
+				<arrangementBy>RST</arrangementBy>
+				<musicBy>RST</musicBy>
+				<lyricsBy>Citadela</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Prosti mi</songTitle>
+				<songArtist>D2</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:21</length>
+				<year>2000</year>
+				<arrangementBy>Dimitar Karnev</arrangementBy>
+				<musicBy>Dimitar Karnev</musicBy>
+				<lyricsBy>Rumen Gaidev</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Bezkrai</songTitle>
+				<songArtist>Zvezdi (Analgin)</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:59</length>
+				<year>1999</year>
+				<arrangementBy>Zvezdomir Keremedchiev</arrangementBy>
+				<musicBy>Zvezdomir Keremedchiev</musicBy>
+				<lyricsBy>Zvezdomir Keremedchiev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Beli rozi</songTitle>
+				<songArtist>Silviya Kacarova</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:54</length>
+				<year>1998</year>
+				<arrangementBy>Maga</arrangementBy>
+				<musicBy>Silviya Kacarova</musicBy>
+				<lyricsBy>Lachezar Tanev</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne govori</songTitle>
+				<songArtist>Nikolay Urumov</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:01</length>
+				<year>2000</year>
+				<arrangementBy>Nikolay Urumov</arrangementBy>
+				<musicBy>Nikolay Urumov</musicBy>
+				<lyricsBy>Ina Grigorova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Usmihni se</songTitle>
+				<songArtist>Big Mama Scandal</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:21</length>
+				<year>1999</year>
+				<arrangementBy>Big mama scandal</arrangementBy>
+				<musicBy>Ivaylo Gochev</musicBy>
+				<lyricsBy>Ivaylo Gochev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Bronzovo</songTitle>
+				<songArtist>Tedi Kacarova</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:07</length>
+				<year>2000</year>
+				<arrangementBy>Momchil Kolev</arrangementBy>
+				<musicBy>Silviya Kacarova</musicBy>
+				<lyricsBy>Grafa</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>S cvetya do sebe si (remix)</songTitle>
+				<songArtist>Up Down</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:20</length>
+				<year>2000</year>
+				<arrangementBy>Petko Manchev</arrangementBy>
+				<musicBy>Petko Manchev</musicBy>
+				<lyricsBy>Lyudmil Ilarionov - Lyusi</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne e istina</songTitle>
+				<songArtist>Maniya</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:43</length>
+				<year>1999</year>
+				<arrangementBy>Short cuts</arrangementBy>
+				<musicBy>Vasil Novakov</musicBy>
+				<lyricsBy>Aleksandar Petrov</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Sazhalyavam</songTitle>
+				<songArtist>Signal</songArtist>
+				<albumOfSong>Bavno 2</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:49</length>
+				<year>1998</year>
+				<arrangementBy>Signal</arrangementBy>
+				<musicBy>Signal</musicBy>
+				<lyricsBy>Aleksandar Petrov</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="XL Recordings">
+	<producerOwner>Richard Russell</producerOwner>
+	<artist>
+		<artistName>Adele</artistName>
+		<artistProducer>XL Recordings</artistProducer>
+		<album>
+			<albumName>25</albumName>
+			<duration>48:25</duration>
+			<albumYear>2015</albumYear>
+			<song>
+				<songTitle>Hello</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:55</length>
+				<year>2015</year>
+				<arrangementBy>Greg Kurstin</arrangementBy>
+				<musicBy>Greg Kurstin</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Send My Love (To Your New Lover)</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>3:43</length>
+				<year>2015</year>
+				<arrangementBy>Shellback</arrangementBy>
+				<musicBy>Max Martin</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>I Miss You</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>5:49</length>
+				<year>2015</year>
+				<arrangementBy>Paul Epworth</arrangementBy>
+				<musicBy>Paul Epworth</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>When We Were Young</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:51</length>
+				<year>2015</year>
+				<arrangementBy>Tobias Jesso Jr.</arrangementBy>
+				<musicBy>Tobias Jesso Jr.</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Remedy</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:05</length>
+				<year>2015</year>
+				<arrangementBy>Ryan Tedder</arrangementBy>
+				<musicBy>Ryan Tedder</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Water Under the Bridge</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:00</length>
+				<year>2015</year>
+				<arrangementBy>Greg Kurstin</arrangementBy>
+				<musicBy>Greg Kurstin</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>River Lea</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>3:45</length>
+				<year>2015</year>
+				<arrangementBy>Samuel Dixon</arrangementBy>
+				<musicBy>Samuel Dixon</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Love in the Dark</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:46</length>
+				<year>2015</year>
+				<arrangementBy>Brian Burton</arrangementBy>
+				<musicBy>Brian Burton</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Million Years Ago</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>3:47</length>
+				<year>2015</year>
+				<arrangementBy>Greg Kurstin</arrangementBy>
+				<musicBy>Greg Kurstin</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>All I Ask</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:32</length>
+				<year>2015</year>
+				<arrangementBy>Philip Lawrence</arrangementBy>
+				<musicBy>Bruno Mars</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Sweetest Devotion</songTitle>
+				<songArtist>Adele</songArtist>
+				<albumOfSong>25</albumOfSong>
+				<albumArtist>Adele</albumArtist>
+				<length>4:12</length>
+				<year>2015</year>
+				<arrangementBy>Paul Epworth</arrangementBy>
+				<musicBy>Paul Epworth</musicBy>
+				<lyricsBy>Adele Adkins</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="RCA">
+	<producerOwner>Timbaland</producerOwner>
+	<artist>
+		<artistName>Justin Timberlake</artistName>
+		<artistProducer>RCA</artistProducer>
+		<album>
+			<albumName>The 20/20 Experience</albumName>
+			<duration>70:01</duration>
+			<albumYear>2013</albumYear>
+			<song>
+				<songTitle>Pusher Love Girl</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>8:02</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle> Tie</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>5:26</length>
+				<year>2012</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Shawn Carter</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Don't Hold the Wall</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:10</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Strawberry Bubblegum</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:58</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tunnel Vision</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>6:46</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Spaceship Coupe</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:17</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>That Girl</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>4:47</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Let the Groove Get In</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:11</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Mirrors</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>8:05</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Blue Ocean Floor</songTitle>
+				<songArtist>Justin Timberlake</songArtist>
+				<albumOfSong>The 20/20 Experience</albumOfSong>
+				<albumArtist>Justin Timberlake</albumArtist>
+				<length>7:19</length>
+				<year>2013</year>
+				<arrangementBy>James Fauntleroy</arrangementBy>
+				<musicBy>Timothy Mosley</musicBy>
+				<lyricsBy>Jerome Harmon</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Island Records">
+	<producerOwner>Chris Blackwell</producerOwner>
+	<artist>
+		<artistName>U2</artistName>
+		<artistProducer>Island Records</artistProducer>
+		<album>
+			<albumName>Achtung Baby</albumName>
+			<duration>55:26</duration>
+			<albumYear>1991</albumYear>
+			<song>
+				<songTitle>Zoo Station</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:36</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Even better than the real thing</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>3:41</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>One</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:36</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Until the end of the world</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:39</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Who's gonna ride your wild horses</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>5:16</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>So cruel</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>5:48</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>The Fly</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:29</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Mysterious ways</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:04</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tryin' to throw your arms around the world</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>3:53</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>true</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ultraviolet</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>5:31</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Acrobat</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:30</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Love is blindness</songTitle>
+				<songArtist>U2</songArtist>
+				<albumOfSong>Achtung Baby</albumOfSong>
+				<albumArtist>U2</albumArtist>
+				<length>4:23</length>
+				<year>1991</year>
+				<arrangementBy>U2</arrangementBy>
+				<musicBy>U2</musicBy>
+				<lyricsBy>Bono</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+	<artist>
+		<artistName>Bob Marley</artistName>
+		<artistProducer>Island Records</artistProducer>
+		<album>
+			<albumName>Uprising</albumName>
+			<duration>36:00</duration>
+			<albumYear>1980</albumYear>
+			<song>
+				<songTitle>Comming in from the cold</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>4:30</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Real Situation</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:08</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Bad card</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>2:50</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>We and Dem</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:12</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Work</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:41</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Zion train</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:36</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Pimper's paradise</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:27</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Could you be loved</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:57</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Foreven loving Jah</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:52</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Redeption song</songTitle>
+				<songArtist>Bob Marley</songArtist>
+				<albumOfSong>Uprising</albumOfSong>
+				<albumArtist>Bob Marley</albumArtist>
+				<length>3:47</length>
+				<year>1980</year>
+				<arrangementBy>Bob Marley</arrangementBy>
+				<musicBy>Bob Marley</musicBy>
+				<lyricsBy>Bob Marley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Payner">
+	<producerOwner>Mitko Dimitrov</producerOwner>
+	<artist>
+		<artistName>Ivana</artistName>
+		<artistProducer>Payner</artistProducer>
+		<album>
+			<albumName>Ne davam da se davame</albumName>
+			<duration>54:20</duration>
+			<albumYear>2015</albumYear>
+			<song>
+				<songTitle>Blagodarya ti, Gospodi</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:41</length>
+				<year>2015</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Neshko Neshev</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Chasha zhivot</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>3:51</length>
+				<year>2015</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Spas Lazarov</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne davam da se davame</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>3:58</length>
+				<year>2014</year>
+				<arrangementBy>Rumen Radoinov</arrangementBy>
+				<musicBy>Rumen Radoinov</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Pak na nashto myasto</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>3:48</length>
+				<year>2015</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Spas Lazarov</musicBy>
+				<lyricsBy>Katya Kiryanova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Usmihni se</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:47</length>
+				<year>2012</year>
+				<arrangementBy>Rumen Radoinov</arrangementBy>
+				<musicBy>Rumen Radoinov</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Loshi hora</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:51</length>
+				<year>2014</year>
+				<arrangementBy>Rumen Radoinov</arrangementBy>
+				<musicBy>Narodna</musicBy>
+				<lyricsBy>Naroden</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Otvorete si sartsata</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>3:46</length>
+				<year>2013</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Spas Lazarov</musicBy>
+				<lyricsBy>Katya Kiryanova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tvoyta maika</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>3:22</length>
+				<year>2015</year>
+				<arrangementBy>Stoyana</arrangementBy>
+				<musicBy>Stoyana</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ako si mazh</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:28</length>
+				<year>2015</year>
+				<arrangementBy>Stoyana</arrangementBy>
+				<musicBy>Stoyana</musicBy>
+				<lyricsBy>Stoyana</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Moma si rusi kosi razplita</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:06</length>
+				<year>2015</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Narodna</musicBy>
+				<lyricsBy>Naroden</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Devet godini, Zhal mi e dashte</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>8:15</length>
+				<year>2015</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Stoyana</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Alo, mamo</songTitle>
+				<songArtist>Ivana</songArtist>
+				<albumOfSong>Ne davam da se davame</albumOfSong>
+				<albumArtist>Ivana</albumArtist>
+				<length>4:27</length>
+				<year>2015</year>
+				<arrangementBy>Spas Lazarov</arrangementBy>
+				<musicBy>Spas Lazarov</musicBy>
+				<lyricsBy>Marieta Angelova</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+	<artist>
+		<artistName>Various artists</artistName>
+		<artistProducer>Payner</artistProducer>
+		<album>
+			<albumName>Pesni za voivodi</albumName>
+			<duration>0:00</duration>
+			<albumYear>2014</albumYear>
+		</album>
+	</artist>	
+	<artist>
+		<artistName>Nikolay Slaveev</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Silviya</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Dzhena</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Ivan Dyakov</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Hristo Kosashki</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Rayna</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Slavka Kalcheva</artistName>
+		<artistProducer>Payner</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Free Agents">
+	<producerOwner>Free Agents Inc</producerOwner>
+	<artist>
+		<artistName>Upsurt</artistName>
+		<artistProducer>Free Agents</artistProducer>
+		<album>
+			<albumName>Quattro</albumName>
+			<duration>33:04</duration>
+			<albumYear>2005</albumYear>
+			<song>
+				<songTitle>Intro</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>0:05</length>
+				<year>2005</year>
+				<arrangementBy>-</arrangementBy>
+				<musicBy>-</musicBy>
+				<lyricsBy>-</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tri v edno</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>4:06</length>
+				<year>2005</year>
+				<arrangementBy>Bat Venci, Hristo Karagyozov</arrangementBy>
+				<musicBy>Bat Venci</musicBy>
+				<lyricsBy>Ico Hazarta, Bat Venci</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Cucka (skit)</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>0:30</length>
+				<year>2005</year>
+				<arrangementBy>-</arrangementBy>
+				<musicBy>-</musicBy>
+				<lyricsBy>-</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Piyani</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>3:00</length>
+				<year>2005</year>
+				<arrangementBy>Bat Venci, Hristo Karagyozov</arrangementBy>
+				<musicBy>Bat Venci, Hristo Karagyozov</musicBy>
+				<lyricsBy>Ico Hazarta, Bat Venci, Stoyan Royanov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>I tvoita maika sashto</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>3:58</length>
+				<year>2004</year>
+				<arrangementBy>Bat Venci</arrangementBy>
+				<musicBy>Bat Venci</musicBy>
+				<lyricsBy>Ico Hazarta</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Kolega</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>4:16</length>
+				<year>2005</year>
+				<arrangementBy>Bat Venci</arrangementBy>
+				<musicBy>Bat Venci</musicBy>
+				<lyricsBy>Ico Hazarta</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ole (skit)</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>0:34</length>
+				<year>2005</year>
+				<arrangementBy>-</arrangementBy>
+				<musicBy>-</musicBy>
+				<lyricsBy>-</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Stiga fira</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>3:37</length>
+				<year>2005</year>
+				<arrangementBy>Bat Venci, Yavor Koen</arrangementBy>
+				<musicBy>Bat Venci, Yavor Koen</musicBy>
+				<lyricsBy>Ico Hazarta</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Skit 1</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>0:33</length>
+				<year>2005</year>
+				<arrangementBy>-</arrangementBy>
+				<musicBy>-</musicBy>
+				<lyricsBy>-</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tri sindzhira Bobi</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>3:59</length>
+				<year>2005</year>
+				<arrangementBy>Bat Venci</arrangementBy>
+				<musicBy>Bat Venci</musicBy>
+				<lyricsBy>Ico Hazarta</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Satira</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>4:01</length>
+				<year>2005</year>
+				<arrangementBy>Bat Venci, Zhivko Petrov, Lili Yoncheva</arrangementBy>
+				<musicBy>Bat Venci, Zhivko Petrov, Lili Yoncheva</musicBy>
+				<lyricsBy>Ico Hazarta</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Skit 2</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>0:29</length>
+				<year>2005</year>
+				<arrangementBy>-</arrangementBy>
+				<musicBy>-</musicBy>
+				<lyricsBy>-</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ne pitai zashto</songTitle>
+				<songArtist>Upsurt</songArtist>
+				<albumOfSong>Quattro</albumOfSong>
+				<albumArtist>Upsurt</albumArtist>
+				<length>3:56</length>
+				<year>2004</year>
+				<arrangementBy>Slave, Miro Gechev</arrangementBy>
+				<musicBy>Miro Gechev</musicBy>
+				<lyricsBy>Slave, Ico Hazarta</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+		<album>
+			<albumName>Bozdugan</albumName>
+			<duration>0:00</duration>
+			<albumYear>1999</albumYear>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Warner Bros">
+	<producerOwner>Kevin Tsujihara</producerOwner>
+	<artist>
+		<artistName>Red Hot Chili Peppers</artistName>
+		<artistProducer>Warner Bros</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Green Day</artistName>
+		<artistProducer>Warner Bros</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Madonna</artistName>
+		<artistProducer>Warner Bros</artistProducer>
+		<album>
+			<albumName>Confessions on a Dance Floor</albumName>
+			<duration>56:28</duration>
+			<albumYear>2005</albumYear>
+			<song>
+				<songTitle>Hung Up</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>5:36</length>
+				<year>2005</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Madonna</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Get Together</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>5:30</length>
+				<year>2005</year>
+				<arrangementBy>Anders Bagge</arrangementBy>
+				<musicBy>Anders Bagge</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Sorry</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:43</length>
+				<year>2015</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Stuart Price</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Future Lovers</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:51</length>
+				<year>2005</year>
+				<arrangementBy>Mirwais Ahmadza?</arrangementBy>
+				<musicBy>Mirwais Ahmadza?</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>I Love New York</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:11</length>
+				<year>2005</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Madonna</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Let It Will Be</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:18</length>
+				<year>2005</year>
+				<arrangementBy>Mirwais Ahmadza?</arrangementBy>
+				<musicBy>Mirwais Ahmadza?</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Forbidden Love</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:22</length>
+				<year>2005</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Stuart Price</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Jump</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>3:46</length>
+				<year>2005</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Joe Henry</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>How High</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:40</length>
+				<year>2005</year>
+				<arrangementBy>Christian Karlsson</arrangementBy>
+				<musicBy>Pontus Winnberg</musicBy>
+				<lyricsBy>Henrik Jonback</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Isaac</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>6:03</length>
+				<year>2005</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Stuart Price</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Push</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>3:57</length>
+				<year>2005</year>
+				<arrangementBy>Stuart Price</arrangementBy>
+				<musicBy>Stuart Price</musicBy>
+				<lyricsBy>Madonna</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Like It or Not</songTitle>
+				<songArtist>Madonna</songArtist>
+				<albumOfSong>Confessions on a Dance Floor</albumOfSong>
+				<albumArtist>Madonna</albumArtist>
+				<length>4:31</length>
+				<year>2005</year>
+				<arrangementBy>Christian Karlsson</arrangementBy>
+				<musicBy>Pontus Winnberg</musicBy>
+				<lyricsBy>Henrik Jonback</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Geffen">
+	<producerOwner>David Geffen</producerOwner>
+	<artist>
+		<artistName>Guns N'Roses</artistName>
+		<artistProducer>Geffen</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Aerosmith</artistName>
+		<artistProducer>Geffen</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Polydor">
+	<producerOwner>Universal Music Group</producerOwner>
+	<artist>
+		<artistName>Rainbow</artistName>
+		<artistProducer>Polydor</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Lana Del Rey</artistName>
+		<artistProducer>Polydor</artistProducer>
+		<album>
+			<albumName>Ultraviolence</albumName>
+			<duration>51:48</duration>
+			<albumYear>2014</albumYear>
+			<song>
+				<songTitle>Cruel World</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>6:39</length>
+				<year>2014</year>
+				<arrangementBy>Blake Stranathan</arrangementBy>
+				<musicBy>Lana Del Rey</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Ultraviolence</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>4:23</length>
+				<year>2014</year>
+				<arrangementBy>Daniel Heath</arrangementBy>
+				<musicBy>Lana Del Rey</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Shades of Cool</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>5:43</length>
+				<year>2014</year>
+				<arrangementBy>Rick Nowels</arrangementBy>
+				<musicBy>Rick Nowels</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Brooklyn Baby</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>5:53</length>
+				<year>2014</year>
+				<arrangementBy>Barrie O'Neill</arrangementBy>
+				<musicBy>Barrie O'Neill</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>West Coast</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>4:25</length>
+				<year>2014</year>
+				<arrangementBy>Rick Nowels</arrangementBy>
+				<musicBy>Rick Nowels</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Sad Girl</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>5:17</length>
+				<year>2014</year>
+				<arrangementBy>Rick Nowels</arrangementBy>
+				<musicBy>Lana Del Rey</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Pretty When You Cry</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>3:54</length>
+				<year>2014</year>
+				<arrangementBy>Blake Stranathan</arrangementBy>
+				<musicBy>Blake Stranathan</musicBy>
+				<lyricsBy>Blake Stranathan</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Money Power Glory</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>4:30</length>
+				<year>2014</year>
+				<arrangementBy>Greg Kurstin</arrangementBy>
+				<musicBy>Greg Kurstin</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Fucked My Way Up to the Top</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>3:32</length>
+				<year>2014</year>
+				<arrangementBy>Daniel Heath</arrangementBy>
+				<musicBy>Daniel Heath</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Old Money</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>4:31</length>
+				<year>2014</year>
+				<arrangementBy>Daniel Heath</arrangementBy>
+				<musicBy>Robbie Fitzsimmons</musicBy>
+				<lyricsBy>Lana Del Rey</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>The Other Woman</songTitle>
+				<songArtist>Lana Del Rey</songArtist>
+				<albumOfSong>Ultraviolence</albumOfSong>
+				<albumArtist>Lana Del Rey</albumArtist>
+				<length>3:01</length>
+				<year>2014</year>
+				<arrangementBy>Jessie Mae Robinson</arrangementBy>
+				<musicBy>Jessie Mae Robinson</musicBy>
+				<lyricsBy>Jessie Mae Robinson</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Creation">
+	<producerOwner>Alan McGee</producerOwner>
+	<artist>
+		<artistName>Oasis</artistName>
+		<artistProducer>Creation</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="A&amp;M">
+	<producerOwner>Herb Alpert</producerOwner>
+	<artist>
+		<artistName>The Police</artistName>
+		<artistProducer>A&amp;M</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Elektra">
+	<producerOwner>Jac Holzman</producerOwner>
+	<artist>
+		<artistName>Metallica</artistName>
+		<artistProducer>Elektra</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Universal">
+	<producerOwner>Doug Morris</producerOwner>
+	<artist>
+		<artistName>3 Doors Down</artistName>
+		<artistProducer>Universal</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="EMI">
+	<producerOwner>Universal Music Group</producerOwner>
+	<artist>
+		<artistName>Scorpions</artistName>
+		<artistProducer>EMI</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Meghan Trainor</artistName>
+		<artistProducer>EMI</artistProducer>
+		<album>
+			<albumName>Title</albumName>
+			<duration>12:45</duration>
+			<albumYear>2014</albumYear>
+			<song>
+				<songTitle>All About That Bass</songTitle>
+				<songArtist>Meghan Trainor</songArtist>
+				<albumOfSong>Title</albumOfSong>
+				<albumArtist>Meghan Trainor</albumArtist>
+				<length>3:07</length>
+				<year>2014</year>
+				<arrangementBy>Kevin Kadish</arrangementBy>
+				<musicBy>Meghan Trainor</musicBy>
+				<lyricsBy>Meghan Trainor</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Title</songTitle>
+				<songArtist>Meghan Trainor</songArtist>
+				<albumOfSong>Title</albumOfSong>
+				<albumArtist>Meghan Trainor</albumArtist>
+				<length>2:54</length>
+				<year>2014</year>
+				<arrangementBy>Kevin Kadish</arrangementBy>
+				<musicBy>Meghan Trainor</musicBy>
+				<lyricsBy>Meghan Trainor</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Dear Future Husband</songTitle>
+				<songArtist>Meghan Trainor</songArtist>
+				<albumOfSong>Title</albumOfSong>
+				<albumArtist>Meghan Trainor</albumArtist>
+				<length>3:04</length>
+				<year>2014</year>
+				<arrangementBy>Kevin Kadish</arrangementBy>
+				<musicBy>Kevin Kadish</musicBy>
+				<lyricsBy>Meghan Trainor</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Close Your Eyes</songTitle>
+				<songArtist>Meghan Trainor</songArtist>
+				<albumOfSong>Title</albumOfSong>
+				<albumArtist>Meghan Trainor</albumArtist>
+				<length>3:40</length>
+				<year>2014</year>
+				<arrangementBy>Kevin Kadish</arrangementBy>
+				<musicBy>Meghan Trainor</musicBy>
+				<lyricsBy>Meghan Trainor</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Crysalis">
+	<producerOwner>Crysalis Inc</producerOwner>
+	<artist>
+		<artistName>Frankie Miller</artistName>
+		<artistProducer>Crysalis</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Vertigo">
+	<producerOwner>Universal Music Group</producerOwner>
+	<artist>
+		<artistName>Nazareth</artistName>
+		<artistProducer>Vertigo</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Eagles</artistName>
+		<artistProducer>Vertigo</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Mercury">
+	<producerOwner>Universal Music Group</producerOwner>
+	<artist>
+		<artistName>Kiss</artistName>
+		<artistProducer>Mercury</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Bon Jovi</artistName>
+		<artistProducer>Mercury</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Sony Music">
+	<producerOwner>Edgar Berger</producerOwner>
+	<artist>
+		<artistName>Various artists</artistName>
+		<artistProducer>Sony Music</artistProducer>
+		<album>
+			<albumName>Californication</albumName>
+			<duration>76:50</duration>
+			<albumYear>2015</albumYear>
+			<song>
+				<songTitle>Californication </songTitle>
+				<songArtist>Red Hot Chili Peppers</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>5:29</length>
+				<year>1999</year>
+				<arrangementBy>Kiedis</arrangementBy>
+				<musicBy>Flea</musicBy>
+				<lyricsBy>Frusciante </lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Don't Cry</songTitle>
+				<songArtist>Guns N'Roses</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:44</length>
+				<year>1991</year>
+				<arrangementBy>Axl Rose</arrangementBy>
+				<musicBy>Axl Rose</musicBy>
+				<lyricsBy>Izzy Stradlin</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Temple of the King</songTitle>
+				<songArtist>Rainbow</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:45</length>
+				<year>1975</year>
+				<arrangementBy>Ronnie James Dio</arrangementBy>
+				<musicBy>Ronnie James Dio</musicBy>
+				<lyricsBy>Ritchie Blackmore</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Wonderwall</songTitle>
+				<songArtist>Oasis</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:18</length>
+				<year>1995</year>
+				<arrangementBy>Noel Gallagher</arrangementBy>
+				<musicBy>Noel Gallagher</musicBy>
+				<lyricsBy>Noel Gallagher</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Every Breath You Take</songTitle>
+				<songArtist>The Police</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:12</length>
+				<year>1983</year>
+				<arrangementBy>Sting</arrangementBy>
+				<musicBy>Sting</musicBy>
+				<lyricsBy>Sting</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Boulevard of Broken Dreams</songTitle>
+				<songArtist>Green Day</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:20</length>
+				<year>2004</year>
+				<arrangementBy>Billie Joe Armstrong</arrangementBy>
+				<musicBy>Billie Joe Armstrong</musicBy>
+				<lyricsBy>Billie Joe Armstrong</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>The Unforgiven</songTitle>
+				<songArtist>Metallica</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>6:27</length>
+				<year>1991</year>
+				<arrangementBy>James Hetfield</arrangementBy>
+				<musicBy>Kirk Hammett</musicBy>
+				<lyricsBy>Lars Ulrich</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Crazy</songTitle>
+				<songArtist>Aerosmith</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>5:16</length>
+				<year>1994</year>
+				<arrangementBy>Steven Tyler</arrangementBy>
+				<musicBy>Joe Perry</musicBy>
+				<lyricsBy>Desmond Child</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Here Without You</songTitle>
+				<songArtist>3 Doors Down</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:58</length>
+				<year>2003</year>
+				<arrangementBy>Roberts</arrangementBy>
+				<musicBy>Roberts</musicBy>
+				<lyricsBy>Roberts</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>When the Smoke Is Going Down</songTitle>
+				<songArtist>Scorpions</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:54</length>
+				<year>1982</year>
+				<arrangementBy>Rudolf Schenker</arrangementBy>
+				<musicBy>Rudolf Schenker</musicBy>
+				<lyricsBy>Rudolf Schenker</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Jealousy</songTitle>
+				<songArtist>Frankie Miller</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>4:09</length>
+				<year>1985</year>
+				<arrangementBy>Frankie Miller</arrangementBy>
+				<musicBy>Frankie Miller</musicBy>
+				<lyricsBy>Frankie Miller</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Love Hurts</songTitle>
+				<songArtist>Nazareth</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:53</length>
+				<year>1974</year>
+				<arrangementBy>Boudleaux Bryant</arrangementBy>
+				<musicBy>Boudleaux Bryant</musicBy>
+				<lyricsBy>Boudleaux Bryant</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Hotel California</songTitle>
+				<songArtist>Eagles</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>6:29</length>
+				<year>1977</year>
+				<arrangementBy>Don Felder</arrangementBy>
+				<musicBy>Glenn Frey</musicBy>
+				<lyricsBy>Don Henley</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Forever</songTitle>
+				<songArtist>Kiss</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>3:52</length>
+				<year>1990</year>
+				<arrangementBy>Paul Stanley</arrangementBy>
+				<musicBy>Paul Stanley</musicBy>
+				<lyricsBy>Michael Bolton</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Always</songTitle>
+				<songArtist>Bon Jovi</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>5:53</length>
+				<year>1994</year>
+				<arrangementBy>Jon Bon Jovi</arrangementBy>
+				<musicBy>Jon Bon Jovi</musicBy>
+				<lyricsBy>Jon Bon Jovi</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Wind of change</songTitle>
+				<songArtist>Scorpions</songArtist>
+				<albumOfSong>Californication</albumOfSong>
+				<albumArtist>Various artists</albumArtist>
+				<length>5:11</length>
+				<year>1991</year>
+				<arrangementBy>Klaus Meine</arrangementBy>
+				<musicBy>Klaus Meine</musicBy>
+				<lyricsBy>Klaus Meine</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+	<artist>
+		<artistName>Pharrell Williams</artistName>
+		<artistProducer>Sony Music</artistProducer>
+		<album>
+			<albumName>Happy</albumName>
+			<duration>3:53</duration>
+			<albumYear>2013</albumYear>
+			<song>
+				<songTitle>Happy</songTitle>
+				<songArtist>Pharrell Williams</songArtist>
+				<albumOfSong>Happy</albumOfSong>
+				<albumArtist>Pharrell Williams</albumArtist>
+				<length>3:53</length>
+				<year>2013</year>
+				<arrangementBy>Pharrell Williams</arrangementBy>
+				<musicBy>Pharrell Williams</musicBy>
+				<lyricsBy>Pharrell Williams</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Ara Audio Video">
+	<producerOwner>Viktor Kasamov</producerOwner>
+	<artist>
+		<artistName>Avenyu</artistName>
+		<artistProducer>Ara Audio Video</artistProducer>
+		<album>
+			<albumName>Vaprosi</albumName>
+			<duration>44:17</duration>
+			<albumYear>1995</albumYear>
+			<song>
+				<songTitle>Zhiveli li sme nyakoga predi</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:40</length>
+				<year>1995</year>
+				<arrangementBy>Bobi Ivanchev, Zaki Sokolov</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Dimitar Paskalev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Byagstvo</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:02</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Detsko litse</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:03</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Edinstvenata</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:23</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Gluh svyat</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>5:06</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Salza, namerena na patya</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:12</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Mezhdu chetiri steni</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:51</length>
+				<year>1995</year>
+				<arrangementBy>A-ha</arrangementBy>
+				<musicBy>A-ha</musicBy>
+				<lyricsBy>Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Tazhna pesen</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>3:22</length>
+				<year>1995</year>
+				<arrangementBy>Bobi Ivanchev, Zaki Sokolov</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Verniyat pat</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:58</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>6:45 vecherta</songTitle>
+				<songArtist>Avenyu</songArtist>
+				<albumOfSong>Vaprosi</albumOfSong>
+				<albumArtist>Avenyu</albumArtist>
+				<length>4:40</length>
+				<year>1995</year>
+				<arrangementBy>Dimitar Paskalev</arrangementBy>
+				<musicBy>Bobi Ivanchev, Zaki Sokolov</musicBy>
+				<lyricsBy>Bobi Ivanchev, Zaki Sokolov</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Republic Records">
+	<producerOwner>Monte Lipman</producerOwner>
+	<artist>
+		<artistName>Enrique Iglesias</artistName>
+		<artistProducer>Republic Records</artistProducer>
+		<album>
+			<albumName>Sex and Love</albumName>
+			<duration>38:06</duration>
+			<albumYear>2014</albumYear>
+			<song>
+				<songTitle>I'm a Freak</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:39</length>
+				<year>2014</year>
+				<arrangementBy>Lukasz Gottwald</arrangementBy>
+				<musicBy>Rome Ramirez</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>There Goes My Baby</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:18</length>
+				<year>2014</year>
+				<arrangementBy>Justin Franks</arrangementBy>
+				<musicBy>Tramar Dillard</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Bailando</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>4:03</length>
+				<year>2014</year>
+				<arrangementBy>Descemer Bueno</arrangementBy>
+				<musicBy>Descemer Bueno</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>El Perdedor</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:11</length>
+				<year>2013</year>
+				<arrangementBy>Descemer Bueno</arrangementBy>
+				<musicBy>Descemer Bueno</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Loco</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:33</length>
+				<year>2013</year>
+				<arrangementBy>Descemer Bueno</arrangementBy>
+				<musicBy>Descemer Bueno</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Let Me Be Your Lover</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:58</length>
+				<year>2014</year>
+				<arrangementBy>Descemer Bueno </arrangementBy>
+				<musicBy>Descemer Bueno </musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>You and I</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:05</length>
+				<year>2014</year>
+				<arrangementBy>Rome Ramirez</arrangementBy>
+				<musicBy>Rome Ramirez</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Heart Attack</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>2:50</length>
+				<year>2013</year>
+				<arrangementBy>Rome Ramirez</arrangementBy>
+				<musicBy>Rome Ramirez</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Me Cuesta Tanto Olvidarte</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:34</length>
+				<year>2014</year>
+				<arrangementBy>Descemer Bueno</arrangementBy>
+				<musicBy>Descemer Bueno</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Noche y De D?a</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:42</length>
+				<year>2014</year>
+				<arrangementBy>Llandel Veguilla</arrangementBy>
+				<musicBy>Llandel Veguilla</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+			<song>
+				<songTitle>Loco (Spanish version)</songTitle>
+				<songArtist>Enrique Iglesias</songArtist>
+				<albumOfSong>Sex and Love</albumOfSong>
+				<albumArtist>Enrique Iglesias</albumArtist>
+				<length>3:13</length>
+				<year>2014</year>
+				<arrangementBy>Descemer Bueno</arrangementBy>
+				<musicBy>Descemer Bueno</musicBy>
+				<lyricsBy>Enrique Iglesias</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+<producer producerName="Monte Music">
+	<producerOwner>Grafa</producerOwner>
+	<artist>
+		<artistName>Various artists</artistName>
+		<artistProducer>Monte Music</artistProducer>
+		<album>
+			<albumName>Opasno blizki</albumName>
+			<duration>0:00</duration>
+			<albumYear>2014</albumYear>
+		</album>
+	</artist>	
+	<artist>
+		<artistName>Preya</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Venzy</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Grafa</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Bily Hlapeto</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Mihaela Fileva</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Divna</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>NickName</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+	<artist>
+		<artistName>Akaga</artistName>
+		<artistProducer>Monte Music</artistProducer>
+	</artist>	
+</producer>
+<producer producerName="Balkanton">
+	<producerOwner>BNR</producerOwner>
+	<artist>
+		<artistName>Lili Ivanova</artistName>
+		<artistProducer>Balkanton</artistProducer>
+		<album>
+			<albumName>Camino</albumName>
+			<duration>4:55</duration>
+			<albumYear>1969</albumYear>
+			<song>
+				<songTitle>Camino</songTitle>
+				<songArtist>Lili Ivanova</songArtist>
+				<albumOfSong>Camino</albumOfSong>
+				<albumArtist>Lili Ivanova</albumArtist>
+				<length>4:55</length>
+				<year>1969</year>
+				<arrangementBy>Spanish folklore</arrangementBy>
+				<musicBy>Spanish folklore</musicBy>
+				<lyricsBy>Ivan Teshev</lyricsBy>
+				<hasVideo>false</hasVideo>
+			</song>
+		</album>
+	</artist>	
+</producer>
+</FonoTech_data_producers>
